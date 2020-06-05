@@ -1,0 +1,1652 @@
+fileFormatVersion: 2
+guid: 97de44e8e1ae64e478c7e684701d8e0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 711491167110088310
+    second: rock-sprite-png-3_0
+  - first:
+      213: 5056977850880608308
+    second: rock-sprite-png-3_1
+  - first:
+      213: 6090604227137615801
+    second: rock-sprite-png-3_2
+  - first:
+      213: -2547788899622378661
+    second: rock-sprite-png-3_3
+  - first:
+      213: -8440252455632587910
+    second: rock-sprite-png-3_4
+  - first:
+      213: 3389882712504019984
+    second: rock-sprite-png-3_5
+  - first:
+      213: 7343886475148100834
+    second: rock-sprite-png-3_6
+  - first:
+      213: 8115858721093394629
+    second: rock-sprite-png-3_7
+  - first:
+      213: -803972907767032133
+    second: rock-sprite-png-3_8
+  - first:
+      213: 3418584407048362200
+    second: rock-sprite-png-3_9
+  - first:
+      213: 2122551518904978908
+    second: rock-sprite-png-3_10
+  - first:
+      213: 7264006804754597811
+    second: rock-sprite-png-3_11
+  - first:
+      213: -708916347919801951
+    second: rock-sprite-png-3_12
+  - first:
+      213: 4498680437499698505
+    second: rock-sprite-png-3_13
+  - first:
+      213: -4362821723393691967
+    second: rock-sprite-png-3_14
+  - first:
+      213: -1948249721323918330
+    second: rock-sprite-png-3_15
+  - first:
+      213: 6524298385788514993
+    second: rock-sprite-png-3_16
+  - first:
+      213: -2339623395515639917
+    second: rock-sprite-png-3_17
+  - first:
+      213: 1894044083179280917
+    second: rock-sprite-png-3_18
+  - first:
+      213: 7566482085348337369
+    second: rock-sprite-png-3_19
+  - first:
+      213: -783070713005859230
+    second: rock-sprite-png-3_20
+  - first:
+      213: -418963866738969353
+    second: rock-sprite-png-3_21
+  - first:
+      213: 8091363240481464610
+    second: rock-sprite-png-3_22
+  - first:
+      213: 2110352838059435181
+    second: rock-sprite-png-3_23
+  - first:
+      213: -2924014275572659397
+    second: rock-sprite-png-3_24
+  - first:
+      213: 7124589276370883125
+    second: rock-sprite-png-3_25
+  - first:
+      213: 5809621306976445504
+    second: rock-sprite-png-3_26
+  - first:
+      213: 4681828044873570680
+    second: rock-sprite-png-3_27
+  - first:
+      213: 4631610858822230367
+    second: rock-sprite-png-3_28
+  - first:
+      213: 6769814326577776669
+    second: rock-sprite-png-3_29
+  - first:
+      213: 3609509578633778207
+    second: rock-sprite-png-3_30
+  - first:
+      213: -7936632085564635598
+    second: rock-sprite-png-3_31
+  - first:
+      213: 5164466883736788163
+    second: rock-sprite-png-3_32
+  - first:
+      213: 9198242833331076514
+    second: rock-sprite-png-3_33
+  - first:
+      213: 9042258107269511242
+    second: rock-sprite-png-3_34
+  - first:
+      213: -3772732703580501516
+    second: rock-sprite-png-3_35
+  - first:
+      213: 1476650522280750077
+    second: rock-sprite-png-3_36
+  - first:
+      213: 1261460412349148097
+    second: rock-sprite-png-3_37
+  - first:
+      213: 6975806769295653388
+    second: rock-sprite-png-3_38
+  - first:
+      213: -7914391100383109932
+    second: rock-sprite-png-3_39
+  - first:
+      213: 8825308826784094134
+    second: rock-sprite-png-3_40
+  - first:
+      213: 5790245329221996681
+    second: rock-sprite-png-3_41
+  - first:
+      213: -4400962798787037683
+    second: rock-sprite-png-3_42
+  - first:
+      213: -5026456447749741018
+    second: rock-sprite-png-3_43
+  - first:
+      213: -8266514876874909184
+    second: rock-sprite-png-3_44
+  - first:
+      213: -4956968893280180555
+    second: rock-sprite-png-3_45
+  - first:
+      213: 1718833298837932738
+    second: rock-sprite-png-3_46
+  - first:
+      213: -2276575179638372863
+    second: rock-sprite-png-3_47
+  - first:
+      213: -8693219616475505095
+    second: rock-sprite-png-3_48
+  - first:
+      213: 2252040867311129331
+    second: rock-sprite-png-3_49
+  - first:
+      213: -8963724006374288189
+    second: rock-sprite-png-3_50
+  - first:
+      213: 7745210493209759319
+    second: rock-sprite-png-3_51
+  - first:
+      213: 8742459594092859658
+    second: rock-sprite-png-3_52
+  - first:
+      213: 6204627452811579571
+    second: rock-sprite-png-3_53
+  - first:
+      213: -3174843282611826350
+    second: rock-sprite-png-3_54
+  - first:
+      213: -1143905922147202992
+    second: rock-sprite-png-3_55
+  - first:
+      213: -4511148046155778056
+    second: rock-sprite-png-3_56
+  - first:
+      213: 7633940094696750873
+    second: rock-sprite-png-3_57
+  - first:
+      213: -3679300831754067571
+    second: rock-sprite-png-3_58
+  - first:
+      213: 4081610527551242617
+    second: rock-sprite-png-3_59
+  - first:
+      213: -7607127250553789417
+    second: rock-sprite-png-3_60
+  - first:
+      213: -2969948262248237658
+    second: rock-sprite-png-3_61
+  - first:
+      213: -7121169619092751624
+    second: rock-sprite-png-3_62
+  - first:
+      213: 5215827817660265633
+    second: rock-sprite-png-3_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rock-sprite-png-3_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1842
+        width: 163
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676cc646279bfd900800000000000000
+      internalID: 711491167110088310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1839
+        width: 168
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438c1c6ff8efd2640800000000000000
+      internalID: 5056977850880608308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_2
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1835
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7b702764c268450800000000000000
+      internalID: 6090604227137615801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_3
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1831
+        width: 173
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53235b9e7f64acd0800000000000000
+      internalID: -2547788899622378661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1831
+        width: 173
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73b6672c133eda80800000000000000
+      internalID: -8440252455632587910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_5
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1831
+        width: 173
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c2a0ddd584b0f20800000000000000
+      internalID: 3389882712504019984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_6
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1831
+        width: 171
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e48ffde6d9bae560800000000000000
+      internalID: 7343886475148100834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_7
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1828
+        width: 166
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c02706d18251a070800000000000000
+      internalID: 8115858721093394629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1569
+        width: 161
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6128766e6b7d4f0800000000000000
+      internalID: -803972907767032133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1569
+        width: 163
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d89ec0e760417f20800000000000000
+      internalID: 3418584407048362200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_10
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1570
+        width: 163
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd0cc55c51d47d10800000000000000
+      internalID: 2122551518904978908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_11
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1574
+        width: 163
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b70b6bd3bfeec460800000000000000
+      internalID: 7264006804754597811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_12
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1579
+        width: 160
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1e5ca665c6926f0800000000000000
+      internalID: -708916347919801951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_13
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1588
+        width: 158
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d1b2bd5068e6e30800000000000000
+      internalID: 4498680437499698505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_14
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1594
+        width: 156
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cee2cef1c42473c0800000000000000
+      internalID: -4362821723393691967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_15
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1591
+        width: 158
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cebb2633d66f4e0800000000000000
+      internalID: -1948249721323918330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1331
+        width: 165
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2349d80d6fa8a50800000000000000
+      internalID: 6524298385788514993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_17
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1328
+        width: 170
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397d81aeaecf78fd0800000000000000
+      internalID: -2339623395515639917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_18
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1327
+        width: 173
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ad4defe0ff84a10800000000000000
+      internalID: 1894044083179280917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_19
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1324
+        width: 175
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d66b802e5b810960800000000000000
+      internalID: 7566482085348337369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_20
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1324
+        width: 174
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e164dd559f125f0800000000000000
+      internalID: -783070713005859230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_21
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1325
+        width: 170
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4bc4d359a8f2af0800000000000000
+      internalID: -418963866738969353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_22
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1325
+        width: 164
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2212d815ffb4a4070800000000000000
+      internalID: 8091363240481464610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_23
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 1326
+        width: 158
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4254f99ba794d10800000000000000
+      internalID: 2110352838059435181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1072
+        width: 158
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b025a2280db67d0800000000000000
+      internalID: -2924014275572659397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_25
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1071
+        width: 164
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532d4acf230afd260800000000000000
+      internalID: 7124589276370883125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_26
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1071
+        width: 168
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0442fd94ccbef9050800000000000000
+      internalID: 5809621306976445504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_27
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1074
+        width: 170
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879962a2dc139f040800000000000000
+      internalID: 4681828044873570680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_28
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1076
+        width: 169
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51e0f96989c64040800000000000000
+      internalID: 4631610858822230367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_29
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1078
+        width: 164
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18c403134633fd50800000000000000
+      internalID: 6769814326577776669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_30
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1077
+        width: 159
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1416d776dd871230800000000000000
+      internalID: 3609509578633778207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_31
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1075
+        width: 160
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236c3f21b2b6bd190800000000000000
+      internalID: -7936632085564635598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 814
+        width: 147
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc566ba44fdba740800000000000000
+      internalID: 5164466883736788163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_33
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 812
+        width: 151
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad3b7e5f19b6af70800000000000000
+      internalID: 9198242833331076514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_34
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 813
+        width: 154
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48f13337dd8c7d70800000000000000
+      internalID: 9042258107269511242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_35
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 808
+        width: 155
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9c59a489f84abc0800000000000000
+      internalID: -3772732703580501516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_36
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 804
+        width: 155
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb60fd83dd1e7410800000000000000
+      internalID: 1476650522280750077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_37
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 803
+        width: 158
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbe940cf8b918110800000000000000
+      internalID: 1261460412349148097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_38
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 804
+        width: 161
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0af1a91c4b0fc060800000000000000
+      internalID: 6975806769295653388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_39
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 807
+        width: 158
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcd628f93f6a2290800000000000000
+      internalID: -7914391100383109932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_40
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 556
+        width: 159
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7d5959e9bc97a70800000000000000
+      internalID: 8825308826784094134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_41
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 554
+        width: 158
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98054aae2751b5050800000000000000
+      internalID: 5790245329221996681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_42
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 551
+        width: 155
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06f69cd6a3ace2c0800000000000000
+      internalID: -4400962798787037683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_43
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 550
+        width: 154
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626a7e8fd707e3ab0800000000000000
+      internalID: -5026456447749741018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_44
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 549
+        width: 150
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a93617480774d80800000000000000
+      internalID: -8266514876874909184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_45
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 550
+        width: 146
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6af510e0f453bb0800000000000000
+      internalID: -4956968893280180555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_46
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 553
+        width: 148
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca095d47c58ad710800000000000000
+      internalID: 1718833298837932738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_47
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 554
+        width: 154
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1060f299feaf760e0800000000000000
+      internalID: -2276575179638372863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_48
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 298
+        width: 159
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e158541da7b5780800000000000000
+      internalID: -8693219616475505095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_49
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 300
+        width: 163
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f21ebbac3bd04f10800000000000000
+      internalID: 2252040867311129331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_50
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 302
+        width: 171
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c45b6f02847a9380800000000000000
+      internalID: -8963724006374288189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_51
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 303
+        width: 177
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e456e58e38c7b60800000000000000
+      internalID: 7745210493209759319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_52
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 306
+        width: 180
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a015c196ea4735970800000000000000
+      internalID: 8742459594092859658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_53
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 308
+        width: 181
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b098787bc34b1650800000000000000
+      internalID: 6204627452811579571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_54
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 311
+        width: 181
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25113620bd0b0f3d0800000000000000
+      internalID: -3174843282611826350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_55
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 306
+        width: 178
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05843fddf970020f0800000000000000
+      internalID: -1143905922147202992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_56
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 47
+        width: 174
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7ffabc0ce2561c0800000000000000
+      internalID: -4511148046155778056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 46
+        width: 168
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ff20dd11431f960800000000000000
+      internalID: 7633940094696750873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_58
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 47
+        width: 160
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81ef75236f70fcc0800000000000000
+      internalID: -3679300831754067571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_59
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 50
+        width: 161
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971cf26462bc4a830800000000000000
+      internalID: 4081610527551242617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_60
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 53
+        width: 161
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7142c85e11e0e6690800000000000000
+      internalID: -7607127250553789417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_61
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 53
+        width: 157
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5b76b7acf98c6d0800000000000000
+      internalID: -2969948262248237658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_62
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 49
+        width: 152
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa3ca406f58c2d90800000000000000
+      internalID: -7121169619092751624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-sprite-png-3_63
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 47
+        width: 149
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4bd39f3c7526840800000000000000
+      internalID: 5215827817660265633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
