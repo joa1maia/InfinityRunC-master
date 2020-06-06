@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2411048080764842270}
   - component: {fileID: 2411048080764842271}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: c2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -56,7 +56,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2411048080776125244}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: PosRestart
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93,7 +93,7 @@ GameObject:
   - component: {fileID: 2411048081227820148}
   - component: {fileID: 2411048081227820158}
   - component: {fileID: 6124298828946335332}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Enemy
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -366,7 +366,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2411048081945701984}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Enemy1
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -401,7 +401,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2411048082363845564}
   - component: {fileID: 2411048082363845565}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: c1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

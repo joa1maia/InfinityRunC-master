@@ -5,7 +5,7 @@ using UnityEngine;
 public class MovePerson : MonoBehaviour
 {
     public Vector2 _movement;
-    Rigidbody2D _rig;
+    public Rigidbody2D _rig;
     public float _speed;
     public SpriteRenderer _imgPerson;
     public float _jumpForce;
@@ -64,12 +64,11 @@ public class MovePerson : MonoBehaviour
         }
         if (!_stopPlayer)// se true. p player fica imovel
         {
-            if (_ground)
-            {
+            
                 _movement = new Vector2(Input.GetAxis("Horizontal"), _rig.velocity.y);// retorna valor direto do teclado
                 //_movement = new Vector2(1, _rig.velocity.y);// retorna valor direto do teclado
                 _rig.velocity = new Vector2(_movement.x * _speed, _rig.velocity.y);
-            }
+            
           
 
             if (_movement.x > 0.001f)// condição para ativa o fliper do sprite do personagem

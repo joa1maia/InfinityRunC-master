@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5469908052287667517}
   - component: {fileID: 5469908052287667518}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: c2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -56,7 +56,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5469908052471326944}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: PosRestart
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -86,7 +86,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5469908052711242013}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Enemy2
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -120,7 +120,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5469908052991579854}
   - component: {fileID: 5469908052991579855}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: c1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -173,7 +173,7 @@ GameObject:
   - component: {fileID: 5469908053724694787}
   - component: {fileID: 5469908053724694808}
   - component: {fileID: 2038991292771070865}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Enemy
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -353,7 +353,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: a4a2ea096106a6e44a01e39ef3147ea1, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 0.109
   m_Pitch: 1
   Loop: 0
