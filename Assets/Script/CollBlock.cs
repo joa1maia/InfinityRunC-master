@@ -7,7 +7,7 @@ public class CollBlock : MonoBehaviour
     // Start is called before the first frame update
     MovePerson _movePerson;
     Rigidbody2D rigbloc;
-    bool passSet;
+    public float _dist;
     void Start()
     {
         _movePerson = Camera.main.GetComponent<GameControl>()._movePerson;
@@ -18,13 +18,15 @@ public class CollBlock : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (_movePerson.enabled && _movePerson._rig.velocity.x > 0.1f)
+        _dist = Vector3.Distance(_movePerson.transform.localPosition, transform.position);
+          if (_movePerson.enabled && _movePerson._rig.velocity.x > 0.1f && _dist> 6)
         {        
             rigbloc.velocity = new Vector2(_movePerson._rig.velocity.x, 0);
         }
         else
         {
             rigbloc.velocity = new Vector2(0, 0);
+       
         }
 
     }   
